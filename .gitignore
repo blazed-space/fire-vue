@@ -22,3 +22,22 @@ TODOs.md
 # Typescript build dist
 packages/@vuepress/shared-utils/lib/
 packages/@vuepress/shared-utils/types/
+
+
+/coverage
+/src/client/shared.ts
+/src/node/shared.ts
+*.log
+*.tgz
+.DS_Store
+.idea
+.temp
+.vite_opt_cache
+.vscode
+dist
+cache
+temp
+examples-temp
+node_modules
+pnpm-global
+TODOs.md
