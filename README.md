@@ -1,2 +1,2 @@
-# blazed-xyz
-Blazed Publishing main website
+# Fire for Vue
+Simple website starter for Vite+Vue 3.
